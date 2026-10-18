@@ -2,6 +2,10 @@
 
 A web application that demonstrates multi-database connection handling with three separate SQLite databases, a unified frontend for reading and modifying data, and proper transaction processing.
 
+## Video Demo
+
+[![Assignment 2 Video](https://img.youtube.com/vi/Y8OYV1Y1t-c/hqdefault.jpg)](https://youtu.be/Y8OYV1Y1t-c)
+
 ## Architecture
 
 ```
